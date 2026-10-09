@@ -77,9 +77,7 @@ The project combines descriptive analytics, interactive visualization, and Machi
 
 Model performance metrics and forecast results should be documented using the actual evaluation outputs.
 
-## 🖼️ Screenshots
 
-Screenshots of the Power BI dashboard and Streamlit application will be added here.
 
 ## 👩‍💻 Author
 
